@@ -5,7 +5,7 @@ import timeit
 from authnet1small import authnet1small
 from datetime import datetime
 TOKEN = '7714091857:AAEInbzVQvKWgopy6VXm8wxepSmU0NltNiI'
-ADMINS = [7248259930, 7749807563, 7753191302]
+ADMINS = [7248259930, 7749807563, 7753191302, 7579489523]
 bot = telebot.TeleBot(TOKEN)
 threads = []
 CREDIT_DB = "credits_db.txt"
